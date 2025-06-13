@@ -13,7 +13,7 @@ ul.nav {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333;
+  background-color: #606c38;
   position: fixed;
   top: 0;
   width: 100%;
@@ -33,13 +33,21 @@ ul.nav li a {
 }
 
 ul.nav li a:hover:not(.active) {
-  background-color: yellow;
+  background-color: #ffb703;
 }
 
 ul.nav .active {
-  background-color: red;
+  background-color: #fb8500
 }
 
 h1 {
   width: 100%;
+  color: #606c38;
+  font-family: "Patrick Hand", cursive;}
+
+  h2{font-family: "Patrick Hand", cursive; color: orange;
+
 }
+
+p{font-family: "Patrick Hand", cursive; color: orange;}
+
